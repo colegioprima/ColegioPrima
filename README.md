@@ -1,2 +1,2 @@
-Colégio Prima.Html 
-Administrador !
+
+<script> alert('Hello)</script>
